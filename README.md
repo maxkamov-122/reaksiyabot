@@ -1,2 +1,0 @@
-# reaksiyabot
-reaksiyabot
